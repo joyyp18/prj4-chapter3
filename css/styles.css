@@ -1,0 +1,88 @@
+body {
+}
+
+.myclass {
+    background-color: #88BA8C;
+    text-align: center;
+    font-family: basic;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    height: 224px;
+    margin-top: 11px;
+    margin-bottom: 0px;
+    padding-top: 138px;
+    width: 100%;
+    border-radius: 22px;
+    background-repeat: no-repeat;
+}
+.lijstje {
+    box-sizing: border-box;
+    background-color: #DADADA;
+    border: 9px solid #DADADA;
+    border-radius: 22px;
+    text-align: center;
+    margin-top: 8px;
+    height: 66px;
+	font-family: basic
+}
+
+#noidea   {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#noidea2{
+
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.pclass {
+    border: 5px solid #DADADA;
+    border-radius: 22px;
+    background-color: #FFFFFF;
+    width: 30%;
+    height: auto;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-top: 8px;
+    text-align: left;
+    padding-right: 28px;
+    padding-left: 28px;
+    font-size: 20px;
+    max-width: 42%;
+}
+
+.picturetime {
+    border: 5px solid #DADADA;
+    border-radius: 22px;
+    background-color: #FFFFFF;
+    margin-top: -305px;
+    margin-left: 37%;
+    height: auto;
+	text-align: center;
+}
+
+#phototime{
+	width: 50%;
+}
+
+.linki {
+    background-color: #DADADA;
+    border: 9px solid #DADADA;
+    border-radius: 22px;
+    text-align: center;
+    margin-top: -91px;
+    height: 45px;
+    font-family: basic;
+	position: relative;
+	width: 33.5%;
+	padding-top:0.7cm;
+	
+}
+
